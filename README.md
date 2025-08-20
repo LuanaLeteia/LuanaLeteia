@@ -1,4 +1,4 @@
-## Luana Letéia - Dev Fullstack 💻
+## Luana Letéia - Desenvolvedora Full Stack 💻
 
  <div>
    <a href="https://github.com/LuanaLeteia">
