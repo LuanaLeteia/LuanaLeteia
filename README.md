@@ -1,12 +1,5 @@
 ## Luana Letéia - Desenvolvedora Full Stack 💻
-
- <div>
-  <a href="https://github.com/LuanaLeteia" target="_blank" rel="noopener noreferrer">
-    <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LuanaLeteia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaLeteia&layout=compact&langs_count=6&theme=tokyonight" />
-  </a>
-</div>
-    
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
