@@ -1,6 +1,6 @@
 ## Luana Letéia - Desenvolvedora Full Stack 💻
 
-Dev Junior, 32 anos, fã de Rock e viciada em boas séries. Estou construindo minha carreira na tecnologia e compartilhando aqui meus projetos, estudos e experiências. Sinta-se à vontade para acompanhar a minha evolução!
+Dev Junior, 33 anos, fã de Rock e viciada em boas séries. Estou construindo minha carreira na tecnologia e compartilhando aqui meus projetos, estudos e experiências. Sinta-se à vontade para acompanhar a minha evolução!
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
