@@ -1,5 +1,7 @@
 ## Luana Letéia - Desenvolvedora Full Stack 💻
 
+Debugging the code, rock in the headphones 🤘
+
 Desenvolvedora Júnior, 33 anos, apaixonada por tecnologia, rock e séries.  
 Compartilho aqui meus projetos.
  
